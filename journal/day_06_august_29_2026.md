@@ -54,3 +54,4 @@
 
 ## 🎈 Mood or Meme
 > *Little progress is still progress compared to not moving at all.*
+![Positive Meme](./assets/positive.png)
