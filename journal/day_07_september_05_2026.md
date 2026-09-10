@@ -61,3 +61,5 @@
 
 ## ✨ Mood or Meme
 > *Still getting better with GitHub. Promise that I will learn VS Code soon, but for now ... testing live in production!*
+
+![Production Meme](/assets/production.jpg)
